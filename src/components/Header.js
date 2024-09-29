@@ -6,12 +6,11 @@ import { Link } from 'react-router-dom';
 function Header() {
   return (
     <header>
-      <img src="/intro-image.jpg" alt="Intro"
-        className="intro-image" />
-      <h1>Welcome to the Blog</h1>
+      <img src="/header-image.png" alt="Intro" className="intro-image" />
+      <h1>Welcome to The Usual Path</h1>
       <nav>
         <Link to="/">Home</Link>
-        <Link to="/extra">Extra Info</Link>
+        <Link to="/extra">Extras</Link>
       </nav>
     </header>
   );

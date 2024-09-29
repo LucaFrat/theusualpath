@@ -6,8 +6,8 @@ import { Link } from 'react-router-dom';
 const posts = [
   {
     id: 'post1',
-    title: 'First Blog Post',
-    summary: 'An introduction to our first topic.',
+    title: 'Breathing is bi-directional',
+    summary: '...',
   },
   {
     id: 'post2',
@@ -21,9 +21,8 @@ function BlogList() {
     <main>
       {posts.map((post) => (
         <section key={post.id} className="post-section">
-          <h2>{post.title}</h2>
+          <Link to={`/post/${post.id}`}><h3>{post.title}</h3></Link>
           <p>{post.summary}</p>
-          <Link to={`/post/${post.id}`}>Read More</Link>
         </section>
       ))}
     </main>

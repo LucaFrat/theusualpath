@@ -1,8 +1,8 @@
 /* src/styles.css */
 
 body {
-    margin: 2%;
-    padding: 2%;
+    margin: 0;
+    padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana,
       sans-serif;
   }
@@ -13,13 +13,13 @@ body {
   }
   
   .intro-image {
-    width: 100%;
-    max-height: 300px;
+    width: 50%;
     object-fit: cover;
   }
   
   nav {
     margin-top: 10px;
+    text-align: center;
   }
   
   nav a {
@@ -61,5 +61,10 @@ body {
   
   article h1 {
     margin-top: 0;
+  }
+
+  .post-content {
+    margin: 20%;
+    font-size: 38;
   }
   
