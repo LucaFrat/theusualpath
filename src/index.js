@@ -2,7 +2,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App'; // Ensure the path to App.js is correct
+import App from './App';
 
 import './css/master.css';
 import './css/postsList.css';
