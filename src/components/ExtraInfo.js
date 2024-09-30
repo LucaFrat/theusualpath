@@ -7,7 +7,7 @@ function ExtraInfo() {
     <main>
       <section>
         <h2>Contact Information</h2>
-        <p>Email: example@example.com</p>
+        <p>Email: theusualpath@outlook.com</p>
       </section>
       <section>
         <h2>Recommended Readings</h2>

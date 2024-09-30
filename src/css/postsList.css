@@ -1,0 +1,48 @@
+#home-welcome-text {
+    text-align: center;
+    color: rgb(39, 36, 36);
+}
+
+.postList-section {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    width: 40%; 
+    margin: 0 auto;
+}
+  
+.postList-text a {
+    text-decoration: none;
+    color: black;
+}
+  
+.postList-text a:hover {
+    text-shadow: 0.8px 0.8px 1px rgba(0, 0, 0, 0.3); /* Apply the shadow */
+}
+
+.postList-text {
+    color: rgb(91, 76, 76);
+    width: 100%;
+    margin: 0 auto;
+    font-size: 1em;
+    text-align: left;
+}
+
+.postList-image {
+    width: 60%;
+    text-align: center;
+    align-content: center;
+    margin: 0 auto;
+    border-radius: 6px;
+}
+
+.postList-shadow:hover {
+    box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.3);;
+}
+
+.postList-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+    transition: background-color 0.3s ease;
+}

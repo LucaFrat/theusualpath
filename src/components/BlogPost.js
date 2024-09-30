@@ -23,7 +23,7 @@ function BlogPost() {
   }, [id]);
 
   return (
-    <article className='post-content'>
+    <article className='article-content'>
       <ReactMarkdown>{content}</ReactMarkdown>
     </article>
   );
