@@ -4,9 +4,8 @@ import { Link } from "react-router-dom";
 function Footer() {
     return (
         <footer>
-            <p>
-                <Link to="/">Some random text</Link>
-            </p>
+            <Link to="/">Back Home</Link>
+            <p style={{fontSize:"0.7rem"}}>Copyright &copy; {new Date().getFullYear()} The Usual Path. All rights reserved.</p>
         </footer>
     );
 }

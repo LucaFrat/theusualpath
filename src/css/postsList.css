@@ -1,6 +1,6 @@
 #home-welcome-text {
     text-align: center;
-    color: rgb(39, 36, 36);
+    color: rgb(76, 62, 62);
 }
 
 .postList-section {
@@ -16,7 +16,7 @@
 }
   
 .postList-text a:hover {
-    text-shadow: 0.8px 0.8px 1px rgba(0, 0, 0, 0.3); /* Apply the shadow */
+    color: rgb(95, 95, 95);
 }
 
 .postList-text {

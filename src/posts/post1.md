@@ -1,4 +1,5 @@
-# Breathing is bi-directional, 27-09-2024
+### 27th September, 2024
+# Breathing is bi-directional 
 
 Today is the day I decided to breath-out. \
 \

@@ -8,8 +8,8 @@ function Header() {
     <header>
       <img src="/header-image.png" alt="Intro" className="master-intro-image" />
       <nav className='navigation-bar'>
-        <Link to="/">Home</Link>
-        <Link to="/extra">Extras</Link>
+        <Link to="/">HOME</Link>
+        <Link to="/extra">RESOURCES</Link>
       </nav>
     </header>
   );

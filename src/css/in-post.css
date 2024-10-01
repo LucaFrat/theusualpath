@@ -2,10 +2,15 @@
     width: 50%;
     margin: 0 auto;
     line-height: 2.5rem;
+    text-align: left;
 }
 
-.article-content h1 {
-    text-align: center;
-    color: rgb(233, 132, 0);
-    margin-top: 0;
+/* .article-content h1 {
+} */
+
+.article-content h3 {
+    margin-top: 2.5rem;
+    /* text-align: left; */
+    font-size: 0.8rem;
+    font-weight: lighter;
 }

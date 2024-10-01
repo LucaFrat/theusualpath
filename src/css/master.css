@@ -7,6 +7,14 @@ body {
       sans-serif;
     color: rgb(91, 76, 76);
   }
+
+  a {
+    display: inline-block; 
+    transition: transform 0.3s ease;
+  }
+  a:hover {
+    transform: scale(1.1);
+  }
   
   header {
     text-align: center;
@@ -19,18 +27,20 @@ body {
   }
   
   .navigation-bar {
-    margin-top: 10px;
-    text-align: center;
+    width: 40%;
+    margin: 0 auto;
   }
   
   .navigation-bar a {
-    margin: 0 15px;
+    margin: 0 10%;
     text-decoration: none;
-    color: #333;
+    color: #d78f8f;
+    font-weight: bold;
   }
   
   .navigation-bar a:hover {
-    color: #007BFF;
+    color: #b67979;
+    /* transform: scale(1.1); */
   }
 
   footer {
