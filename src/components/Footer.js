@@ -5,7 +5,7 @@ function Footer() {
     return (
         <footer>
             <p>
-                some random text
+                <Link to="/">Some random text</Link>
             </p>
         </footer>
     );
