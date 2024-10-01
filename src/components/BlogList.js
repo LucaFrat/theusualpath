@@ -6,8 +6,8 @@ import { Link } from 'react-router-dom';
 const posts = [
   {
     id: 'post2',
-    title: 'Blog post place holder',
-    summary: 'Blog posts place holder.',
+    title: 'Dopamine and Friends',
+    summary: 'Key concepts from "How Dopamine Shapes Your Habits and Productivity" podcast from Ali Abdaal and Tj Power.',
     imageUrl: '/posts-images/place-holder.jpg',
   },
   {
@@ -37,7 +37,7 @@ function BlogList() {
             </Link>
             <p>{post.summary}</p>
           </div>
-          
+
         </section>
       ))}
     </main>

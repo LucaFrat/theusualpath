@@ -1,10 +1,10 @@
-# Breathing is bi-directional
+# Breathing is bi-directional, 27-09-2024
 
 Today is the day I decided to breath-out. \
 \
 23 years of age with filled lungs, ready to release some tension letting some out. I recently got into a state of pure inspiration, pure breathing-in, constantly looking for the next step to take. Albeit my buffer memory filled with next steps, I realised I aint’t taking any. \
 \
-Today I woke up at 5:30am, and on my way to work, still a bit unaware on where this 24h would have brought me, I had the previlege to have a chat with the one and only Derek Sivers. To be fair, it was more of a monologue, than a chat. I believe many have had such monologue from Derek in the past and many others will in the future. This morning Derek was very frank with me, he didn’t hesistate sharing, and many solid messages got past my critical firewall. 119 pages into the chat, Derek dropped the bomb. “You have to pause the input and focus on your output”, he said.\
+Today I woke up at 5:30am, and on my way to work, still a bit unaware on where this 24h would have brought me, I had the previlege to have a chat with the one and only [Derek Sivers](https://sive.rs/). To be fair, it was more of a monologue, than a chat. I believe many have had such monologue from Derek in the past and many others will in the future. This morning Derek was very frank with me, he didn’t hesistate sharing, and many solid messages got past my critical firewall. 119 pages into the chat, Derek dropped the bomb. “You have to pause the input and focus on your output”, he said.\
 \
 Breathing is bi-directional. 
 Breathing is so fundamental that we don’t even have to think about it, it just works. Every breath-in is followed by its complementary breath-out; so automatic. But what if we looked at this from a different perspective, and replaced “breathing-in” with consuming books, listening to podcasts, watching YouTube videos, or attending lectures instead? All these activities involve receiving something. Naturally following there should be the breathing out phase, the time to produce something, to give back what you received and elaborated upon, right? Well, yes, but no. Despite how easy it is to breath-in, to breath-out is much more demanding.\

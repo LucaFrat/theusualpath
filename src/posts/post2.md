@@ -1,3 +1,5 @@
-# Second Blog Post
+# Dopamine, Oxytocin, Seratonin, 01-10-2024
 
-This is the second blog post placeholder.
+summarise AliAbdaal and Tj Power podcast
+
+

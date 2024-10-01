@@ -8,6 +8,7 @@ import Header from './components/Header';
 import BlogList from './components/BlogList';
 import BlogPost from './components/BlogPost';
 import ExtraInfo from './components/ExtraInfo';
+import Footer from './components/Footer';
 
 import './css/master.css';
 import './css/postsList.css';
@@ -23,6 +24,7 @@ function App() {
         <Route path="/post/:id" element={<BlogPost />} />
         <Route path="/extra" element={<ExtraInfo />} />
       </Routes>
+      <Footer />
     </Router>
   );
 }

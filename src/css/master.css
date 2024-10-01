@@ -32,3 +32,23 @@ body {
   .navigation-bar a:hover {
     color: #007BFF;
   }
+
+  footer {
+    background-color: rgb(212, 183, 183);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5px;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
