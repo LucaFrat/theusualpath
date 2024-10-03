@@ -13,7 +13,7 @@ body {
     transition: transform 0.3s ease;
   }
   a:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
   }
   
   header {
@@ -51,4 +51,29 @@ body {
     position: relative;
     bottom: 0;
     width: 100%;
+  }
+
+  /* footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff; /* Optional: Set a background color
+  } */
+  
+  .footer-content {
+    display: inline-block;
+  }
+  
+  .footer-link {
+    color: #000; /* Inherit or set your preferred text color */
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline;
+  }
+  
+  .separator {
+    margin: 0 10px;
+    color: #999; /* Optional: Set a lighter color for the separator */
   }
